@@ -10,7 +10,9 @@ This repository contains code for forecasting PM2.5 levels in Beijing using mete
 
 ## Repository Structure  
 ├── data/ # train and test datasets
+
 ├── submissionf/ # Saved models
+
 ├── notebooks/ # Jupyter notebooks for EDA, preprocessing, and training
 
 
